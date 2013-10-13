@@ -1,0 +1,5 @@
+COMMON_DIR = 'D:\\games\\yu-gi-oh-games\\Yu-Gi-Oh! Power of Chaos Common'
+YUGI_DIR = 'D:\\games\\yu-gi-oh-games\\Yu-Gi-Oh! Power of Chaos YUGI THE DESTINY'
+KAIBA_DIR = 'D:\\games\\yu-gi-oh-games\\Yu-Gi-Oh! Power of Chaos KAIBA THE REVENGE'
+JOEY_DIR = 'D:\\games\\yu-gi-oh-games\\Yu-Gi-Oh! Power of Chaos JOEY THE PASSION'
+BACKUP_REPO = 'D:\\games\\yu-gi-oh-games\\backup'
